@@ -1,0 +1,8 @@
+[tools]
+node = "22.14.0"
+
+[tasks.build]
+run = "npm run build"
+
+[tasks.start]
+run = "npm start"
