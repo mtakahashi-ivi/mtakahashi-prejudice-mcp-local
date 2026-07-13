@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mtakahashi_prejudice": {
+      "type": "stdio",
+      "command": "mise",
+      "args": ["run", "start"]
+    }
+  }
+}

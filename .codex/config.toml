@@ -1,0 +1,3 @@
+[mcp_servers.mtakahashi_prejudice]
+command = "mise"
+args = ["run", "start"]
