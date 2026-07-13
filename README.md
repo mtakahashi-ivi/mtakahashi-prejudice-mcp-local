@@ -1,4 +1,4 @@
-# mtakahashi-prejudice-mcp
+# mtakahashi-prejudice-mcp-local
 
 `mtakahashi` の偏見を外部知識として提供する、ローカル MCP サーバです。
 `stdio` で通信するため、Claude Code や Codex などの MCP 対応ハーネスから利用できます。
